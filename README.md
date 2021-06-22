@@ -1,6 +1,12 @@
+# Grades and Catalogs as Data
+
+## Overview
+
 This is a project that I worked on with faculty at Furman University and helped present at the Analytics Day conference held by Appalachian State University on June 3, 2021.
 
 The project was titled "Grades and Catalogs as Data." It showed three techniques for data mining course grades to understand the content of the curriculum, its difficulty, and the match between courses and students. 
+
+## Details
 
 Methods used include random effects linear models to estimate student ability and course difficulty, factor analysis of residuals to extract student learning outcomes, and text-mining techniques to cluster catalog course descriptions into content groups. 
 
@@ -8,7 +14,11 @@ Findings include the qualitative difference of F grades, relationship of course 
 
 My contribution to the project was to show how text-mining techniques could be used to cluster catalog course descriptions into content groups. This acted as validation for the earlier conclusions in the presentation using other methods, and also served as an example of how various NLP (natural language processing) techniques can be used on academic data.
 
+## Recording
+
 A video recording of the presentation can be accessed from this Google Doc by clicking on "Grades and Catalogs as Data": https://docs.google.com/spreadsheets/d/1W-M3gX_xOynWObF21K5sH7XYyx3rKEUvSpnODRoY9-4/edit#gid=631779964
+
+## Files
 
 I've included the PowerPoint slides as well as the Python code (as Jupyter Notebook files) and Tableau visuals that I contributed to the project. (I  used Tableau for the first time for this project, so the visuals aren't very sophisticated.)
 
