@@ -22,6 +22,8 @@ A video recording of the presentation can be accessed from this Google Doc by cl
 
 I've included the PowerPoint slides as well as the Python code (as Jupyter Notebook files) and Tableau visuals that I contributed to the project. (I  used Tableau for the first time for this project, so the visuals aren't very sophisticated.)
 
+The Tableau visuals can also be viewed on my Tableau Public page here: https://public.tableau.com/profile/amanda.whalen#!/
+
 The Jupyter Notebook files should be viewed in the following order:
 
 1) Data cleaning.ipynb: 
